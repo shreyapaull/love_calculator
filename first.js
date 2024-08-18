@@ -48,7 +48,7 @@ document.getElementById('button').addEventListener('click', function(e) {
     } else if (score > 50) {
       return "The chance of a relationship working out between " + _name1 +  " and "  + _name2 +" is not very big, but a relationship is very well possible, if the two of you really want it to, and are prepared to make some sacrifices for it. You'll have to spend a lot of quality time together. You must be aware of the fact that this relationship might not work out at all, no matter how much time you invest in it.";
     } else {
-      return "Dr. Love thinks a relationship might work out between " + _name1 +  "and"  + _name2 +" but the chance is very small. A successful relationship is possible, but you both have to work on it. Do not sit back and think that it will all work out fine, because it might not be working out the way you wanted it to. Spend as much time with each other as possible. Again, the chance of this relationship working out is very small, so even when you do work hard on it, it still might not work out.";
+      return "Dr. Love thinks a relationship might work out between " + _name1 +  " and "  + _name2 +" but the chance is very small. A successful relationship is possible, but you both have to work on it. Do not sit back and think that it will all work out fine, because it might not be working out the way you wanted it to. Spend as much time with each other as possible. Again, the chance of this relationship working out is very small, so even when you do work hard on it, it still might not work out.";
     }
   }
   
